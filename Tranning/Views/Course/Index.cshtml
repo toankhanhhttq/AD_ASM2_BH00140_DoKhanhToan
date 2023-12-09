@@ -1,0 +1,165 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Course page";
+    // co the code nhu trong controller
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+
+    bool statusAdd = Convert.ToBoolean(TempData["saveStatus"]);
+    bool statusUpdate = Convert.ToBoolean(TempData["UpdateStatus"]);
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url("s");
+        
+        
+        background-size: cover;
+        background-position: center;
+        color: white;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 3rem;
+        color: skyblue;
+        text-align: center;
+        text-shadow: 2px 2px 4px black;
+        font-weight: bold; /* Đây là thuộc tính để làm cho chữ in đậm hơn */
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid black;
+        font-weight: bold; /* Đây là thuộc tính để làm cho chữ in đậm hơn */
+    }
+
+    th {
+        background-color: black
+        font-weight: bold; /* Đây là thuộc tính để làm cho chữ in đậm hơn */
+    }
+
+    img {
+        max-width: 100px;
+        height: auto;
+    }
+
+    .btn {
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+    }
+</style>
+
+<body>
+<div class="row">
+    <div class="col-sm-12 col-md-12">
+        <h4 class="display-6">
+            List Courses
+        </h4>
+        <a class="btn btn-primary btn-sm" href="@Url.Action("Add","Course")"> Add Course </a>
+        <form asp-action="Index" method="get">
+            <div class="form-actions no-color">
+                <p class="mb-0">
+                    Find by name : <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                    <button type="submit" class="btn btn-primary btn-sm mb-0">Search</button>
+                    <a asp-action="Index"> Back to full list</a>
+                </p>
+            </div>
+        </form>
+        <hr />
+
+        @if (TempData["UpdateStatus"] != null)
+        {
+            @if (statusUpdate)
+            {
+                <div class="text-success my-2"> Update Successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2"> Update Failure</div>
+            }
+        }
+
+        @if (TempData["saveStatus"] != null)
+        {
+            @if (statusAdd)
+            {
+                <div class="text-success my-2"> Add Successfully</div>
+            }
+            else
+            {
+                <div class="text-danger my-2"> Add Failure</div>
+            }
+        }
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>Category</th>
+                    <th>AVATAR</th>
+                    <th>DESCRIPTION</th>
+                    <th>START DATE</th>
+                    <th>END DATE</th>
+                    <th>STATUS</th>
+                    <th>CREATED AT</th>
+                    <th>UPDATED AT</th>
+                    <th colspan="2" width="5%">ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CourseDetailLists)
+                {
+                    <tr>
+                        <td>@item.id</td>
+                        <td>@item.name</td>
+                        <td>@item.category_id</td>
+                        <td>
+                            <img class="img-fluid" src="/Uploads/images/@item.avatar" />
+                        </td>
+                        <td>@item.description</td>
+                        <td>@item.start_date</td>
+                        <td>@item.end_date</td>
+                        <td>@item.status</td>
+                        <td>@item.created_at</td>
+                        <td>@item.updated_at</td>
+                        <td>
+                            <a class="btn btn-info btn-sm" href="@Url.Action("Update","Course", new { id = @item.id })">Edit</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-danger btn-sm" href="@Url.Action("Delete","Course", new { id = @item.id })">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>

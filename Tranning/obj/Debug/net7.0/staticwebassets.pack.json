@@ -1,0 +1,1765 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tranning.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tranning.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\btec.png",
+      "PackagePath": "staticwebassets\\assets\\img\\btec.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\btec1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\btec1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\0708b01c-5795-461d-ae1e-936eefbf2b84-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0708b01c-5795-461d-ae1e-936eefbf2b84-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\08553e13-b754-4d18-b538-25bac04de44f-Hinh-nen-anime-13-min.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\08553e13-b754-4d18-b538-25bac04de44f-Hinh-nen-anime-13-min.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\0a701385-4207-40f1-bfaf-112dd09684cb-363915061_1077623543233581_6015241438088423667_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\0a701385-4207-40f1-bfaf-112dd09684cb-363915061_1077623543233581_6015241438088423667_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\0aab46bc-4a77-4666-b6b4-e1dbbd5310a6-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0aab46bc-4a77-4666-b6b4-e1dbbd5310a6-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\0affa368-a310-4a8a-b10a-aca3c3d875f8-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\0affa368-a310-4a8a-b10a-aca3c3d875f8-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\0b1006c8-9135-4ed1-afcc-a89e13c90832-1620_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0b1006c8-9135-4ed1-afcc-a89e13c90832-1620_1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\10cf5959-1670-40e0-bce1-aa4a186c2fb2-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\10cf5959-1670-40e0-bce1-aa4a186c2fb2-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\146611e1-0331-456a-97ca-a76c0d38a081-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\146611e1-0331-456a-97ca-a76c0d38a081-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\156f8b73-48e3-4e11-b1cc-e7216e2bb41d-Capture.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\156f8b73-48e3-4e11-b1cc-e7216e2bb41d-Capture.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\1659a6cf-f307-4232-a220-463552200feb-357752497_249067147859336_880543162443230406_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\1659a6cf-f307-4232-a220-463552200feb-357752497_249067147859336_880543162443230406_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\191ca03a-f7fe-4112-90f9-f337b213c82e-tải xuống (5).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\191ca03a-f7fe-4112-90f9-f337b213c82e-tải xuống (5).jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\1b37b6fb-825f-4565-9445-cec7fe823d01-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\1b37b6fb-825f-4565-9445-cec7fe823d01-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\1b7a44fb-bba3-4136-80bf-63bdbc000b02-91073226_2826935270767275_1885454002577997824_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\1b7a44fb-bba3-4136-80bf-63bdbc000b02-91073226_2826935270767275_1885454002577997824_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\1cf2805d-ec1d-4ae6-a5e1-314674df59a0-357752497_249067147859336_880543162443230406_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\1cf2805d-ec1d-4ae6-a5e1-314674df59a0-357752497_249067147859336_880543162443230406_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\1cfdfeb7-4474-4fde-a04a-5298629e6c3b-1.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\1cfdfeb7-4474-4fde-a04a-5298629e6c3b-1.docx"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\2125e19f-4c03-499c-b6db-4e124c746496-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2125e19f-4c03-499c-b6db-4e124c746496-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\215f73a2-983f-45fc-ab80-f0697d6da983-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\215f73a2-983f-45fc-ab80-f0697d6da983-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\22a0d204-ce95-44eb-ac41-6cfdcb429ed9-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\22a0d204-ce95-44eb-ac41-6cfdcb429ed9-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\26969724-4dbe-4189-9125-2f83d0d23d44-1.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\26969724-4dbe-4189-9125-2f83d0d23d44-1.docx"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\27df6c0e-d764-4b37-920f-9eea1bc64e90-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\27df6c0e-d764-4b37-920f-9eea1bc64e90-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\2828e1bf-3754-4042-ae85-6848887a5494-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2828e1bf-3754-4042-ae85-6848887a5494-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\297e30a8-dedc-4f04-be81-59d9ee16c9e2-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\297e30a8-dedc-4f04-be81-59d9ee16c9e2-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\2d410b15-41e7-48b5-a672-591b57aff423-Hinh-nen-anime-16-min.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\2d410b15-41e7-48b5-a672-591b57aff423-Hinh-nen-anime-16-min.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\305b16d7-f15d-482e-9087-87c0ac0bc99b-tải xuống (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\305b16d7-f15d-482e-9087-87c0ac0bc99b-tải xuống (1).jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\317d62d5-bd8f-49e0-b144-02c887e12964-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\317d62d5-bd8f-49e0-b144-02c887e12964-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\344b6262-72d3-45b3-b04b-6c18154fd819-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\34d73a41-2aee-4b3d-8b60-41f55f86618b-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\34d73a41-2aee-4b3d-8b60-41f55f86618b-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\3a6dd03e-13bd-4cd4-838e-ce65f0f89f3b-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\3a6dd03e-13bd-4cd4-838e-ce65f0f89f3b-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\40ee185b-112a-4584-bd58-6f39ae1ccec4-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\40ee185b-112a-4584-bd58-6f39ae1ccec4-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\41c6b20e-31d3-4aad-8fdd-e3a328949f2f-Capture.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\41c6b20e-31d3-4aad-8fdd-e3a328949f2f-Capture.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\482be952-6192-42b1-b4d4-84dacac1ec48-357752497_249067147859336_880543162443230406_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\482be952-6192-42b1-b4d4-84dacac1ec48-357752497_249067147859336_880543162443230406_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\4ac1a03e-2278-4958-997c-53043cad747b-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\4ac1a03e-2278-4958-997c-53043cad747b-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\52213c13-7087-4a82-9ec8-67f69edc74b8-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\52213c13-7087-4a82-9ec8-67f69edc74b8-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\55f1d8b8-d77d-4c6e-8e46-c4cb8ffaf265-z3977449096990_1799f178612f515fdfcd7e067db2681d (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\55f1d8b8-d77d-4c6e-8e46-c4cb8ffaf265-z3977449096990_1799f178612f515fdfcd7e067db2681d (1).jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\579b1091-cb0b-4008-ba47-971d8378b895-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\579b1091-cb0b-4008-ba47-971d8378b895-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\5a5fb74d-958f-4db8-971e-71f98229f4e8-1620_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\5a5fb74d-958f-4db8-971e-71f98229f4e8-1620_1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\5d24b7e8-7229-44c6-8caa-171bd0840398-402074837_2101636406838320_7469615522359207973_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\5d24b7e8-7229-44c6-8caa-171bd0840398-402074837_2101636406838320_7469615522359207973_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\6438c84f-0945-4a7e-9836-f29139f41e02-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6438c84f-0945-4a7e-9836-f29139f41e02-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\6b551d73-0ae0-4c90-8c1b-011290166746-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6b551d73-0ae0-4c90-8c1b-011290166746-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\6bd34980-e59f-4aec-9fde-71add34a341e-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\6bd34980-e59f-4aec-9fde-71add34a341e-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\6ebbec17-774d-47d8-9c22-d89040345f0b-memes-painting-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6ebbec17-774d-47d8-9c22-d89040345f0b-memes-painting-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\6f0dda6a-7cce-40c0-b8f4-0e950b31ee99-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\6f0dda6a-7cce-40c0-b8f4-0e950b31ee99-91316705_2826932030767599_4384472391519043584_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\72405cc4-b449-48b0-a473-4ed743bfaaf0-z3977449096990_1799f178612f515fdfcd7e067db2681d (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\72405cc4-b449-48b0-a473-4ed743bfaaf0-z3977449096990_1799f178612f515fdfcd7e067db2681d (1).jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7396a719-3a34-46d2-a52c-23bd7bda2c0b-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7396a719-3a34-46d2-a52c-23bd7bda2c0b-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7415ff26-42cd-4468-a8bd-efb21172e8b8-1.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\7415ff26-42cd-4468-a8bd-efb21172e8b8-1.docx"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\751627e2-5d0b-4ac8-a403-05a3ee68ef0a-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\751627e2-5d0b-4ac8-a403-05a3ee68ef0a-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\75456f06-a383-4314-8a41-e484b947f98b-Alan_Walker.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\75456f06-a383-4314-8a41-e484b947f98b-Alan_Walker.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\76b2e573-d22e-4398-810d-e4dc81fd0690-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\76b2e573-d22e-4398-810d-e4dc81fd0690-91316705_2826932030767599_4384472391519043584_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\77e7af0d-308c-432f-94b6-425bcf4c7cd1-402074837_2101636406838320_7469615522359207973_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\77e7af0d-308c-432f-94b6-425bcf4c7cd1-402074837_2101636406838320_7469615522359207973_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7860e0c0-1824-4084-8557-20ff8fe53bfc-tải xuống (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7860e0c0-1824-4084-8557-20ff8fe53bfc-tải xuống (1).jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\79f29b20-7142-40cd-827f-6959813d4cfa-Capture.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\79f29b20-7142-40cd-827f-6959813d4cfa-Capture.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7d795f16-26da-415b-bc42-634bedae8bba-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7d795f16-26da-415b-bc42-634bedae8bba-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7ed8c1d3-61c1-4bdf-8b88-40161fef8129-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7ed8c1d3-61c1-4bdf-8b88-40161fef8129-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\7f4f48f0-6d87-42e7-874a-d65d77708839-402074837_2101636406838320_7469615522359207973_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7f4f48f0-6d87-42e7-874a-d65d77708839-402074837_2101636406838320_7469615522359207973_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\842a7748-6204-4731-962d-d2bd433f28dc-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\842a7748-6204-4731-962d-d2bd433f28dc-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\84f2b3b4-98fd-4549-8ace-89e5748a7c7a-HappyForYou.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\84f2b3b4-98fd-4549-8ace-89e5748a7c7a-HappyForYou.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\87266ef1-2ec7-4364-9da0-f9913e991f8e-91073226_2826935270767275_1885454002577997824_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\87266ef1-2ec7-4364-9da0-f9913e991f8e-91073226_2826935270767275_1885454002577997824_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\8bee530b-7404-41db-8b49-142c449143d6-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\8bee530b-7404-41db-8b49-142c449143d6-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\90367e88-2768-4c8d-a929-5d29321b1af0-pexels-photo-1287145.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\images\\90367e88-2768-4c8d-a929-5d29321b1af0-pexels-photo-1287145.jpeg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\9142c747-7bf7-49c9-ae58-599cfa79c669-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\9142c747-7bf7-49c9-ae58-599cfa79c669-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\9608cf9a-c8b9-478b-8ac7-98ce4b222a19-8c56de959cd76b8932c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\9608cf9a-c8b9-478b-8ac7-98ce4b222a19-8c56de959cd76b8932c6.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\97cea816-49d3-47c9-b944-d3fbcbd3e5b6-Hinh-nen-anime-13-min.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\97cea816-49d3-47c9-b944-d3fbcbd3e5b6-Hinh-nen-anime-13-min.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\9b34f451-a1d7-4607-bbb6-3e86f69788ce-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\9b34f451-a1d7-4607-bbb6-3e86f69788ce-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\9e81900a-a769-4e8e-8d6d-10cffa3b7886-memes-painting-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\9e81900a-a769-4e8e-8d6d-10cffa3b7886-memes-painting-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\a0675c26-142e-4e14-9865-ae54266b4b34-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\a0675c26-142e-4e14-9865-ae54266b4b34-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\a09ac2b9-9e58-4e4f-ab78-6aee5cded00f-358111581_230474143211586_5192181581759094490_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\a09ac2b9-9e58-4e4f-ab78-6aee5cded00f-358111581_230474143211586_5192181581759094490_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\a123caf6-9328-4ff6-b143-d9aa3485c9e1-Capture.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\a123caf6-9328-4ff6-b143-d9aa3485c9e1-Capture.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\a57c5745-5633-416e-ab1a-ce6e7ec43d84-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a57c5745-5633-416e-ab1a-ce6e7ec43d84-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\a82c385b-695a-4afa-aedc-67201eeacb3e-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\a82c385b-695a-4afa-aedc-67201eeacb3e-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\adab9b82-3f24-4339-8c1a-3aae12f105c5-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\adab9b82-3f24-4339-8c1a-3aae12f105c5-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\adb9146c-c7f0-413a-bfe6-e8c98ead70ed-How-IoT-Works-1.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\adb9146c-c7f0-413a-bfe6-e8c98ead70ed-How-IoT-Works-1.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\aeaa033c-2218-4ca2-84cb-42ee0ad17723-402074837_2101636406838320_7469615522359207973_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\aeaa033c-2218-4ca2-84cb-42ee0ad17723-402074837_2101636406838320_7469615522359207973_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\af03f7f0-bfef-455e-92d3-bfd98e6803d3-2022-11-28-21-57-27_0.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\af03f7f0-bfef-455e-92d3-bfd98e6803d3-2022-11-28-21-57-27_0.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\b05490bc-7b44-43a8-bf27-51b9175fbd5b-z4781843378549_a97a7061d3cd2c5a039f4a2c3412d7cf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\b05490bc-7b44-43a8-bf27-51b9175fbd5b-z4781843378549_a97a7061d3cd2c5a039f4a2c3412d7cf.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\b1cf8c21-ae8e-4d1c-94e2-9558f1a798f5-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\b1cf8c21-ae8e-4d1c-94e2-9558f1a798f5-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\c308df13-f3a0-4094-a749-7a99e725f3c8-402074837_2101636406838320_7469615522359207973_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c308df13-f3a0-4094-a749-7a99e725f3c8-402074837_2101636406838320_7469615522359207973_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\cc12367e-e9ff-412c-8068-bec86a15bf07-z3977442723585_11388f43edb36744800b3323ccb380e3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\cc12367e-e9ff-412c-8068-bec86a15bf07-z3977442723585_11388f43edb36744800b3323ccb380e3.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d12335ac-b554-4277-bf64-6ccac07357e9-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d12335ac-b554-4277-bf64-6ccac07357e9-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d351846a-9036-4901-ac19-100c2fcedbf9-357752497_249067147859336_880543162443230406_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d351846a-9036-4901-ac19-100c2fcedbf9-357752497_249067147859336_880543162443230406_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d3add4c4-c991-4c4b-baf2-ae806ff3471f-Capture.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d3add4c4-c991-4c4b-baf2-ae806ff3471f-Capture.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d4931b8e-d70f-43b8-8d0a-8e07bad3662b-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d4931b8e-d70f-43b8-8d0a-8e07bad3662b-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d791dbb9-fa28-45d9-b644-6a77de0184e2-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d791dbb9-fa28-45d9-b644-6a77de0184e2-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\d963474a-8040-4b9c-bffc-63cf164d4feb-2_TZWI.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d963474a-8040-4b9c-bffc-63cf164d4feb-2_TZWI.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\db4e116a-df89-4daa-a351-33e30abb12d2-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\db4e116a-df89-4daa-a351-33e30abb12d2-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\dbcb2899-1c8d-404a-86c4-630043d2a2d7-2_TZWI.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\dbcb2899-1c8d-404a-86c4-630043d2a2d7-2_TZWI.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\dce465f2-63c7-48cf-9be3-9c1552a3b835-2022-11-28-21-57-27_0.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\dce465f2-63c7-48cf-9be3-9c1552a3b835-2022-11-28-21-57-27_0.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\de1c2a9d-43c3-4060-8b95-5ec07fbcea4e-91316705_2826932030767599_4384472391519043584_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\de1c2a9d-43c3-4060-8b95-5ec07fbcea4e-91316705_2826932030767599_4384472391519043584_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\dfb82a6b-c7e1-4e17-963a-83d2ebfc3855-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\dfb82a6b-c7e1-4e17-963a-83d2ebfc3855-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\e0856fcc-6068-4ac9-b44f-05e6147ba160-382723900_823740659483039_4705436984205863566_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\e0856fcc-6068-4ac9-b44f-05e6147ba160-382723900_823740659483039_4705436984205863566_n.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\e260c31e-4036-438b-bee5-36116af67c18-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\e260c31e-4036-438b-bee5-36116af67c18-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\e6eeabca-8494-4eb8-9057-f0b7aa929fdf-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\e6eeabca-8494-4eb8-9057-f0b7aa929fdf-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\e8f389ce-2361-455d-8772-776d22d2514b-painting-mountain-lake-with-mountain-background_188544-9126.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\e8f389ce-2361-455d-8772-776d22d2514b-painting-mountain-lake-with-mountain-background_188544-9126.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\ec50acca-003a-45d8-8aef-d5abd84ee426-1620_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\ec50acca-003a-45d8-8aef-d5abd84ee426-1620_1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\ed6187df-4d04-4ac4-a95b-1ea86db8a729-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\ed6187df-4d04-4ac4-a95b-1ea86db8a729-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\ed8159dd-4c4a-46a4-8907-542f9cfaa5f4-81587674_109538533910535_5605031401880551424_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\ed8159dd-4c4a-46a4-8907-542f9cfaa5f4-81587674_109538533910535_5605031401880551424_n.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\efce081c-0861-4bb3-ab3b-38f967e41551-1620_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\efce081c-0861-4bb3-ab3b-38f967e41551-1620_1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\f63ce7be-931e-4032-ab68-c7ce443e5619-1620_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\f63ce7be-931e-4032-ab68-c7ce443e5619-1620_1.jpg"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\f78f074a-4815-45ce-8052-13f42caf1757-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\f78f074a-4815-45ce-8052-13f42caf1757-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "D:\\BTEC\\Thay Trieu\\Training-abc\\Tranning\\wwwroot\\uploads\\images\\f96d3e86-de52-4634-b2ad-84a3433f8597-desktop-wallpaper-meme-weird-background-dank-meme.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\f96d3e86-de52-4634-b2ad-84a3433f8597-desktop-wallpaper-meme-weird-background-dank-meme.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tranning.props",
+      "PackagePath": "build\\Tranning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tranning.props",
+      "PackagePath": "buildMultiTargeting\\Tranning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tranning.props",
+      "PackagePath": "buildTransitive\\Tranning.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,225 @@
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Tranning\Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\appsettings.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\BTEC\Thay Trieu\Training-abc\Tranning\obj\Debug\net7.0\ref\Tranning.dll

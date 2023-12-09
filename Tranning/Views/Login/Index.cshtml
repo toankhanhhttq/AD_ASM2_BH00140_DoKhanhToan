@@ -1,0 +1,134 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Tranning.Models.LoginModel
+
+@{
+    ViewData["Title"] = "Login Page";
+    // khong ke thua mac dinh _Layout.cshtml
+    // custom cho ke thua _MyLayout.cshtml
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    
+     
+}
+<style>
+      
+    body {
+        background-image: url("https://source.unsplash.com/random");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed; /* Giữ hình nền cố định khi cuộn trang */
+    }
+
+
+    .login-container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    .input-group {
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    .welcome-message {
+        text-align: center;
+        margin-bottom: 20px; /* Khoảng cách với form login */
+    }
+
+        .welcome-message p {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            /* Các thuộc tính CSS khác tùy thuộc vào thiết kế của bạn */
+        }
+
+   /*  .section{
+          position: absolute;
+          width: 100vw;
+          height:100vh;
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          gap:2px;
+          flex-wrap:wrap;
+          overflow: hidden;
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 100%;
+      } */
+
+    
+</style>
+ 
+
+<body>
+    <div class="welcome-message">
+        <p>Welcome back, Tranning Staff</p>
+    </div>
+@using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @class = "my-3 border p-2" }))
+{
+    @if (ViewData["MessageLogin"] != null)
+    {
+        <p class="text-danger text-center">
+            @ViewData["MessageLogin"]
+        </p>
+    }
+
+    <div class="login-container">
+        <form>
+            <h2>Login</h2>
+            <div class="input-group">
+                    <label for="username"><b>Username</b></label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="input-group">
+                    <label for="password"><b>Password</b></label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+}
+</body>
